@@ -1,2 +1,1 @@
-# Detector_Movimentos
-Projeto desenvolvido para detectar movimentos.
+O modelos de detecção de movimentos, foi desenvolvido em Pytho e utilizado a bibliotecas OpenCv. Através das técnicas morfologicas e de desfoque, foi possivel realizar um melhor pré-processamento dos videos, além disso, foi utilizado os algoritimos: MOG, GMG, KNN e CNT. 
